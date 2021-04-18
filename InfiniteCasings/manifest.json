@@ -1,0 +1,17 @@
+{
+  "name": "Infinite Casings",
+  "authors": [
+    "M'aiq"
+  ],
+  "guid": "maiq.infinitecasings",
+  "version": "1.0.0",
+  "require": "0.3.2",
+  "assets": {
+    "patcher": {
+      "hookgen.conf": "deli:monomod.hookgen"
+    },
+    "setup": {
+      "InfiniteCasings.dll": "deli:assembly"
+    }
+  }
+}
