@@ -13,7 +13,7 @@ mkdir -p TEMP/InfiniteCasings/plugins
 cp manifest.json TEMP/manifest.json
 cp icon.png TEMP/icon.png
 cp ../README.md TEMP/README.md
-cp ../InfiniteCasings/InfiniteCasings/bin/Release/net35/InfiniteCasings.dll TEMP/InfiniteCasings/plugins/InfiniteCasings.dll
+cp ../src/InfiniteCasings/bin/Release/net35/InfiniteCasings.dll TEMP/InfiniteCasings/plugins/InfiniteCasings.dll
 
 # Modify the version number
 sed -i "s/{VERSION}/$VERSION/g" TEMP/manifest.json
