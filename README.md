@@ -4,6 +4,6 @@
 ## Manual Installation
 Requires 
  - [BepInEx 5.4.x](https://github.com/BepInEx/BepInEx/releases)
- - [BepInEx.Monomod.HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher/releases).
+ - [BepInEx.Monomod.HookGenPatcher](https://github.com/harbingerofme/Bepinex.Monomod.HookGenPatcher/releases)
 
-Download the [latest release of InfiniteCasings](https://github.com/Maiq-The-Dude/InfiniteCasings/releases/latest) and extract the `.zip` into the BepInEx plugins folder.
+Download and open [InfiniteCasings.zip](https://github.com/Maiq-The-Dude/InfiniteCasings/releases/latest), then drag `InfiniteCasings.dll` within into the `h3vr/bepinex/plugins/ directory`
